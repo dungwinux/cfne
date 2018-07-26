@@ -39,7 +39,7 @@ Gồm nhiều test, mỗi test nằm trên một dòng ghi số n
 
 OUTPUT
 
-Tổng các chữ số của ![n^2^]("http://www.sciweavers.org/tex2img.php?eq=n%5E2%5E&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0").
+Tổng các chữ số của ![n^2^](http://www.sciweavers.org/tex2img.php?eq=n%5E2%5E&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0).
 
 ```
 +--------------+---------------+
